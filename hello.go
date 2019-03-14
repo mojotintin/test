@@ -7,5 +7,5 @@ func main() {
 }
 
 func p() {
-	fmt.Println("v0.0.0")
+	fmt.Println("v0.0.1")
 }

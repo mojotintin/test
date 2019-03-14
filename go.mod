@@ -1,3 +1,3 @@
-module ding/test
+module mojotintin/test
 
 go 1.12
