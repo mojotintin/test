@@ -1,11 +1,7 @@
-package main
+package test
 
 import "fmt"
 
-func main() {
-	fmt.Println("vim-go")
-}
-
-func p() {
-	fmt.Println("v0.0.1")
+func P() {
+	fmt.Println("v0.0.3")
 }
